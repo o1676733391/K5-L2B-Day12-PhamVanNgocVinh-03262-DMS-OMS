@@ -1,0 +1,6 @@
+frame_id,source,phenomenon,affected_field,effect_on_label
+S01_ir,IR_sim,"Dây an toàn và áo tối màu bị đồng nhất độ sáng trong ảnh mô phỏng xám",person.seatbelt,"Giữ unknown vì không phân biệt được dải dây với nếp áo; không đoán theo ảnh RGB"
+S04_ir,IR_sim,"Các đồ vật khác màu trên RGB (túi vải vs hộp carton) có phản xạ độ xám gần như nhau trên IR-sim",object.type,"Phải phân loại dựa trên viền hình học và bóng đổ 3D thay vì màu sắc/chất liệu"
+D01,real_IR,"Đèn LED NIR 940nm phản xạ gương (specular reflection) trên tròng kính tạo đốm sáng trắng che tròng mắt",face.eye_right,"Ghi unknown và bật cờ occluded cho 4 điểm mí/khóe mắt phải; tuyệt đối không đoán closed"
+D04,real_IR,"Kính râm tối màu bị xuyên thấu dưới bước sóng cận hồng ngoại NIR 940nm do vật liệu tròng kính cho tia NIR đi qua",face.glasses,"Dễ gây nhầm lẫn là glasses=clear; cần quan sát gọng kính bản dày hoặc ghi unknown nếu không chắc chắn"
+D05,real_IR,"Cường độ sáng NIR suy giảm mạnh theo bình phương khoảng cách (fall-off) về phía vô lăng và đùi",hand.on_wheel,"Phần tay dưới và đùi bị tối; cần chỉnh độ tương phản hiển thị trên CVAT để xác định tiếp xúc vô lăng"
