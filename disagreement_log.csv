@@ -1,0 +1,33 @@
+﻿image,label,field,issue,mine,peer,verdict,guideline_rule,action
+D06.png,face13,left_eye_outer.occluded,khác cờ,1,0,mine,4.6,giữ 1 của mine vì mắt tài xế cúi xuống đùi bị che khuất một phần cần bật cờ occluded
+D06.png,face13,left_eye_inner.occluded,khác cờ,1,0,mine,4.6,giữ 1 của mine vì mắt tài xế cúi xuống đùi bị che khuất một phần cần bật cờ occluded
+D06.png,face13,left_eye_upper.occluded,khác cờ,1,0,mine,4.6,giữ 1 của mine vì mắt tài xế cúi xuống đùi bị che khuất một phần cần bật cờ occluded
+D06.png,face13,left_eye_lower.occluded,khác cờ,1,0,mine,4.6,giữ 1 của mine vì mắt tài xế cúi xuống đùi bị che khuất một phần cần bật cờ occluded
+D06.png,face13,right_eye_outer.occluded,khác cờ,1,0,mine,4.6,giữ 1 của mine vì mắt tài xế cúi xuống đùi bị che khuất một phần cần bật cờ occluded
+D06.png,face13,right_eye_inner.occluded,khác cờ,1,0,mine,4.6,giữ 1 của mine vì mắt tài xế cúi xuống đùi bị che khuất một phần cần bật cờ occluded
+D06.png,face13,right_eye_upper.occluded,khác cờ,1,0,mine,4.6,giữ 1 của mine vì mắt tài xế cúi xuống đùi bị che khuất một phần cần bật cờ occluded
+D06.png,face13,right_eye_lower.occluded,khác cờ,1,0,mine,4.6,giữ 1 của mine vì mắt tài xế cúi xuống đùi bị che khuất một phần cần bật cờ occluded
+S01_ir.png,frame_meta,light,khác giá trị,unknown,day,mine,3,giữ unknown của mine vì ảnh SVIRO là ảnh mô phỏng dựng máy tính nên light=unknown
+S01_ir.png,infant_seat,seat,khác giá trị (IoU=1.00),rear_right,driver,mine,4.4-3,giữ rear_right của mine vì camera OMS nhìn ngược về sau nên bên trái ảnh là rear_right theo xe
+S01_rgb.png,frame_meta,light,khác giá trị,unknown,day,mine,3,giữ unknown của mine vì ảnh SVIRO là ảnh mô phỏng dựng máy tính nên light=unknown
+S01_rgb.png,infant_seat,seat,khác giá trị (IoU=1.00),rear_right,driver,mine,4.4-3,giữ rear_right của mine vì camera OMS nhìn ngược về sau nên bên trái ảnh là rear_right theo xe
+S02_ir.png,frame_meta,light,khác giá trị,unknown,day,mine,3,giữ unknown của mine vì ảnh SVIRO là ảnh mô phỏng dựng máy tính nên light=unknown
+S02_rgb.png,frame_meta,light,khác giá trị,unknown,day,mine,3,giữ unknown của mine vì ảnh SVIRO là ảnh mô phỏng dựng máy tính nên light=unknown
+S03_ir.png,frame_meta,light,khác giá trị,unknown,day,mine,3,giữ unknown của mine vì ảnh SVIRO là ảnh mô phỏng dựng máy tính nên light=unknown
+S03_ir.png,child_seat,occupied,khác giá trị (IoU=1.00),no,yes,mine,4.8,giữ no của mine vì guideline quy định child_seat chỉ nhận no hoặc unknown không có yes
+S03_rgb.png,frame_meta,light,khác giá trị,unknown,day,mine,3,giữ unknown của mine vì ảnh SVIRO là ảnh mô phỏng dựng máy tính nên light=unknown
+S03_rgb.png,child_seat,occupied,khác giá trị (IoU=1.00),no,yes,mine,4.8,giữ no của mine vì guideline quy định child_seat chỉ nhận no hoặc unknown không có yes
+S04_ir.png,frame_meta,light,khác giá trị,unknown,day,mine,3,giữ unknown của mine vì ảnh SVIRO là ảnh mô phỏng dựng máy tính nên light=unknown
+S04_rgb.png,frame_meta,light,khác giá trị,unknown,day,mine,3,giữ unknown của mine vì ảnh SVIRO là ảnh mô phỏng dựng máy tính nên light=unknown
+S05_ir.png,frame_meta,light,khác giá trị,unknown,day,mine,3,giữ unknown của mine vì ảnh SVIRO là ảnh mô phỏng dựng máy tính nên light=unknown
+S05_ir.png,child_seat,occupied,khác giá trị (IoU=1.00),no,yes,mine,4.8,giữ no của mine vì guideline quy định child_seat chỉ nhận no hoặc unknown không có yes
+S05_ir.png,child_seat,occupied,khác giá trị (IoU=1.00),no,yes,mine,4.8,giữ no của mine vì guideline quy định child_seat chỉ nhận no hoặc unknown không có yes
+S05_rgb.png,frame_meta,light,khác giá trị,unknown,day,mine,3,giữ unknown của mine vì ảnh SVIRO là ảnh mô phỏng dựng máy tính nên light=unknown
+S05_rgb.png,child_seat,occupied,khác giá trị (IoU=1.00),no,yes,mine,4.8,giữ no của mine vì guideline quy định child_seat chỉ nhận no hoặc unknown không có yes
+S05_rgb.png,child_seat,occupied,khác giá trị (IoU=1.00),no,yes,mine,4.8,giữ no của mine vì guideline quy định child_seat chỉ nhận no hoặc unknown không có yes
+S06_ir.png,frame_meta,light,khác giá trị,unknown,day,mine,3,giữ unknown của mine vì ảnh SVIRO là ảnh mô phỏng dựng máy tính nên light=unknown
+S06_rgb.png,frame_meta,light,khác giá trị,unknown,day,mine,3,giữ unknown của mine vì ảnh SVIRO là ảnh mô phỏng dựng máy tính nên light=unknown
+S07_ir.png,frame_meta,light,khác giá trị,unknown,day,mine,3,giữ unknown của mine vì ảnh SVIRO là ảnh mô phỏng dựng máy tính nên light=unknown
+S07_rgb.png,frame_meta,light,khác giá trị,unknown,day,mine,3,giữ unknown của mine vì ảnh SVIRO là ảnh mô phỏng dựng máy tính nên light=unknown
+S08_ir.png,frame_meta,light,khác giá trị,unknown,day,mine,3,giữ unknown của mine vì ảnh SVIRO là ảnh mô phỏng dựng máy tính nên light=unknown
+S08_rgb.png,frame_meta,light,khác giá trị,unknown,day,mine,3,giữ unknown của mine vì ảnh SVIRO là ảnh mô phỏng dựng máy tính nên light=unknown
