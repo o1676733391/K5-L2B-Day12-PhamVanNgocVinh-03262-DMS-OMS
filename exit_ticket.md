@@ -2,7 +2,7 @@
 
 Làm cá nhân, không mở slide, khoảng 10 phút. Ghi đáp án ngay dưới mỗi câu.
 
-**Họ tên:** PhamVanNgocVinh · **Mã:** G01
+**Họ tên:** Phạm Văn Ngọc Vinh · **Mã:** G01
 
 ---
 

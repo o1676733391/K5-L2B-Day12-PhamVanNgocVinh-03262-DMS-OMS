@@ -1,4 +1,4 @@
-# Danh sách lớp v0 — PhamVanNgocVinh · G01
+# Danh sách lớp v0 — Phạm Văn Ngọc Vinh · G01
 
 Viết tiếp từ slide 54 bài giảng. Mỗi lớp trả lời: **model cần nhận ra cái này để làm gì?**
 

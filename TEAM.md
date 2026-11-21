@@ -4,7 +4,7 @@ Mã bộ ảnh: **G01** · Hình thức: cá nhân
 
 | Họ tên | MSSV | Đã gán đủ 22 ảnh? | Review chéo với (peer diff) | Số dòng disagreement đã xử lý |
 |---|---|---|---|---|
-| Phạm Văn Ngọc Vĩnh | 03262 | có | (ghép cùng bạn nhóm G01) | 32 |
+| Phạm Văn Ngọc Vinh | 03262 | có | (ghép cùng bạn nhóm G01) | 32 |
 
 Ca hai bạn vẫn không thống nhất và đã hỏi coach (ghi tên ảnh + đối tượng):
 

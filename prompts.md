@@ -1,4 +1,4 @@
-# Khai báo dùng AI — PhamVanNgocVinh
+# Khai báo dùng AI — Phạm Văn Ngọc Vinh
 
 Không dùng AI thì xóa bảng và ghi: **Không dùng.**
 
